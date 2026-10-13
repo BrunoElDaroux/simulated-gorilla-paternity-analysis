@@ -25,7 +25,7 @@ Any future research involving real institutional or field genetic data would req
 
 ---
 
-## Key Findings Summary
+## Key Findings Summary (Simulated Results)
 
 1. On paternity, 60% of offspring were sired by the dominant silverback, 10% by subordinate males, and 30% were unresolved; likely extra-group males. So dominants did not monopolise reproduction. Subordinate paternity was real and detected across multiple groups, which directly challenges strict reproductive skew models.
 
