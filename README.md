@@ -1,4 +1,4 @@
-# Non-Invasive Paternity & Kinship Analysis in Wild Mountain Gorillas
+# Non-Invasive Paternity & Kinship Analysis in Wild Mountain Gorillas (A Simulated Project)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
